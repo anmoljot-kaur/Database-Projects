@@ -1,4 +1,4 @@
-# Author: Anmoljot Kaur
+# Author: Anmoljot Kaur 
 # Date: July 21, 2023
 # Topic: Selecting Data from Database
 # Objectives:
@@ -12,6 +12,4 @@
 #       ORDER BY
 #       AND
 
-SHOW DATABASES; 
-
-SELECT * FROM world.country;
+#Refer to SQL Statements.md file
