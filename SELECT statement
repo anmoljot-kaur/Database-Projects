@@ -13,3 +13,5 @@
 #       AND
 
 SHOW DATABASES; 
+
+SELECT * FROM world.country;
